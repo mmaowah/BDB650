@@ -16,23 +16,22 @@ Marcel is planning to develop his own website to facilitate the delivery of his 
 
 ### 2.1 Objectives
 
-### 2.2 Business Case
-
-### 2.3 Scope
+A website designed for a faculty delivering courses at College setting will be up and running prior to the beginning of the Fall terms with tools for delivering presentations, displaying the faculty's availability, as well as to allow students and groups to pic meeting timeslots.
 
 ## 3. Milestones
 
 1. List of technological choices for front-end, back-end, database, and hosting/domain defined
-2. Website up and running from the server with no interactive tools
-3. Template to deliver presentations addded to the website
-4. Tool for faculty to display its availability added
-5. Tool for allowing students and groups to pick timeslots added
+2. Website back-end up and front-end designed and some static test pages tested in development environment
+3. Template to deliver presentations addded to the website designed and tested
+4. Tool for faculty to display its availability designed and tested
+5. Tool for allowing students and groups to pick timeslots designed and tested
 
 ## 4. Deliverables
 
-1. First item
-2. Second item
-3. Third item
+1. Website up and running from the server with no interactive tools
+2. Presentations accessible for students
+3. Faculty availability tool accessible for students
+4. Tool for students and groups to pick timeslots accessile for students
 
 ## 5. Risks, Assumptions, and Constraints
 
