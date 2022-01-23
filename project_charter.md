@@ -22,9 +22,11 @@ Marcel is planning to develop his own website to facilitate the delivery of his 
 
 ## 3. Milestones
 
-1. First item
-2. Second item
-3. Third item
+1. List of technological choices for front-end, back-end, database, and hosting/domain defined
+2. Website up and running from the server with no interactive tools
+3. Template to deliver presentations addded to the website
+4. Tool for faculty to display its availability added
+5. Tool for allowing students and groups to pick timeslots added
 
 ## 4. Deliverables
 
