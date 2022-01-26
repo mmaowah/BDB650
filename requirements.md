@@ -1,0 +1,7 @@
+- The website must be accessible to any location where access to the internet is available
+- The website must have a responsive interface that can be properly used regardless of screen size (mobiles, tablets, laptopts)
+- The overall cost for building and maintaining the website must be under 100 CADs/year
+- No personal information, besides emails and names, will be stored in the website
+- For the timeslot picking tool, each group can only pick one timeslot
+- For the timeslot picking tool, the faculty must be able to make manual changes
+- For the messaging tool, only the faculty will have access to message other groups
