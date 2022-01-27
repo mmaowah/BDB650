@@ -1,0 +1,7 @@
+- Daily scrums will held at 10 AM, from Mondays to Fridays, over Discord
+- Developers should let others know beforehand, whenever possible, when they need to miss a meeting
+- Deelopeprs should have contigency plans in place whenever meetings are missed
+- All communications should have a respectuful tone, including tolerance torwards cultural differences
+- Developers should always let others know when documents and scripts are altered right away
+- All developers should aim at respecting all the deadlines set by the group
+- Make sure to warn others, as soon as possible, whenever deadlines cannot be met
