@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This project aims at creating a website for a faculty member at a College setting. A number of tools to help with the delivery of courses will be included such as: a template to create presentation slides, a tool to allow students and/or groups of students to pick meeting timeslots, and a timetable for the faculty to display its availability to students.
+This project aims at creating a website for a faculty member at a College setting. A number of tools to help with the delivery of courses will be included such as: a template to create presentation slides, a tool to allow students and/or groups of students to pick meeting timeslots, tools for allow faculty and groups to easily message one another, and a timetable for the faculty to display its availability to students.
 
 *January 23rd, 2022*
 
