@@ -4,24 +4,22 @@
 
 **Summary:**
 
-Great progress this week! We are still in the concept phase, but Avery Lomax will be choosing a topic this week. Content and Design teams are standing by and ready to get started once we give the go ahead.
+Front-end and Back-end progressing well. In the front-end side, different views have been created showing a landing page, a course page, as well as calendar pages. In the back-end domain, models have been set up and tests involving HTTP requests show that the authentication process is working as designed.
 
 **Front-End:**
 
-- Planning team met to discuss an overall topic
-- We have three final ideas and will choose one on Friday
-- A brief is due to the Content team the following Thursday
+- Boostrap added to the filesystem
+- Several views, showcasing the responsiveness of the framework, have been created
 
 **Back-End:**
 
-- The Content team is ready to start writing copy as soon as our idea is finalized
-- They are gathering pertinent company information that should be included
+- Models to store user account information have been created
+- Functionality to create sessions based on whether the user sent the proper credentials via HTTP request have been finalized. Still missing the UI components
 
 **Additional notes or highlights:**
 
-- Jen is out of the office all next week so please direct any content questions to Joy
-- Thank you to Henry for curating a huge list of topics for us to choose from!
+- Still trying to decide where to host the website. Digital Ocean and Heroku are the current main contenders
 
 **Issues/challenges:**
 
-The e-book’s deadline is tight, as we all know. It’s critical that we’re all working in our project management tool to keep everyone organized and on track. Thanks!
+- Obtaining an SSL certificate might incur in unexpected costs
