@@ -2,69 +2,78 @@
 
 ## 1. Introduction
 
-This project aims at creating a website for a faculty member at a College setting. A number of tools to help with the delivery of courses will be included such as: a template to create presentation slides, a tool to allow students and/or groups of students to pick meeting timeslots, tools for allowing faculty and groups to easily message one another, and a timetable for the faculty to display its availability to students.
+Our project partners would like the team members to create an interactive dashboard by using data from the Child and Adolescent Mental Health to identify the provinces in society that need more focus and demographics trends over the years reporting cases about anxiety and substance abuse cases. This will help understand the one of the key issue of mental health and lack of mental health professional in Canada across all provinces.
 
-*January 23rd, 2022*
+February 7nth, 2022
 
-*Current Version: 2.1*
+Current Version: 1.9
 
-*Project Manager (and sponsor): Marcel Jar*
-
+Project Manager (and sponsor): Group 2
 ## 2. Overview
 
-Marcel is planning to develop his own website to facilitate the delivery of his classes at Seneca College.
+We, members of Group 2 are planning to explore the data and create and in house dashboard accessible to all users of Kaggle for the research of mental health in Canada.
 
 ### 2.1 Objectives
 
-A website designed for a faculty delivering courses at College setting will be up and running prior to the beginning of the Fall terms with tools for delivering presentations, displaying the faculty's availability, as well as to allow students and groups to pick meeting timeslots.
-
+Dashboard about mental health pre and post pandemic for Canada will have access to historical data researchers on Kaggle before the end of the term, providing necessary trends to plan for community programs, run volunteer or spread awareness amongst vulnerable groups or demographics.
 ## 3. Milestones
 
-1. List of technological choices for front-end, back-end, database, and hosting/domain defined
-2. Website back-end up and front-end designed and some static test pages tested in development environment
-3. Template to deliver presentations addded to the website designed and tested
-4. Tool for faculty to display its availability designed and tested
-5. Tool for allowing students and groups to pick timeslots designed and tested
+1. Procure data from surveys by CAMH and CCDSS about mental health pre and post pandemic.
 
+2. Install Python, R and jupyter notebooks for analysis on all local machines on team members.
+
+3. Prepare the environment and devices for pulling the data (jupyter notebook).
+
+4. Preprocess the data and store them on the local machine.
+
+5. Host the data on a cloud server and get the access keys for their API.
+
+6. Explore the data and try to find insights to plan for analysis.
+
+7. Decide the type of ML algorithms and prepare data for those algorithms.
+
+8. Create the models for those algorithms using various sets of hyper parameters.
+
+9. Evaluate the model and decide on the best model for the problem.
+
+10. Produce relevant visuals for the model and make sure they are interactive.
+
+11. Convert the model into a library and post the code on Kaggle.
+
+12. Host the visualization on a cloud server shiny R domain.
 ## 4. Deliverables
 
-1. Website up and running from the server with no interactive tools
-2. Presentations accessible for students
-3. Faculty availability tool accessible for students
-4. Tool for students and groups to pick timeslots accessile for students
+1. Cleaned and prepared data
 
+2. Web API with visualizations
+
+3. Analysis Report
 ## 5. Risks, Assumptions, and Constraints
 
 ### 5.1 Risks
 
-- Any issues with hosting and domain that can interfere with the website accessibility will be solely the responsibility of the faculty
-- Some of the contracted services can have sudden price hikes
-- The faculty can inadvertently make changes that will cause the system to become unaccessible/unreliable
-- Students might find it har to navigate a new system outside of the ones already offered by the college (Blackboard)
+· Sudden change in policy for data use by CAMH or CCDSS
 
+· Sudden change in policy of kaggle for sharing projects of about sensitive matters like mental health
+
+· Prices hike or change in server limits by cloud hosting service
+
+· Python, R or notebook version changes that might require to alter the code
 ### 5.2 Assumptions
 
-- The faculty is well versed in all technologies required to create and maintain the website
-- The contracted services for hosting and domain are extremely reliable (accessible for more than 99.9% of the time)
+· The data about mental health is readily available for analysis
 
+· Team members are well versed with Python and R for performing ML analysis
 ### 5.3 Constraints
 
-- No personal information will be stored (and/or displayed) in the website besides students names and emails
-- No information regarding grades will be stored (and/or displayed) in the website
+· No personal information will be stored (and/or displayed) in the website besides names team members
 
+· No unique identifiable health information will be stored or shared in the code, data or API.
 ## 6. Organization/Stakeholders
 
 | Project Role | Responsibilities | Assigned to |
 | ----------- | ----------- | ----------- |
-| Project Manager | Design and maintain the website| Marcel Jar|
-| Project Sponsor | Cover website costs | Marcel Jar|
-| Users | Access the provided contents  | Seneca Students|
+| Project Manager | Design and maintain the website| Chirag Arora, Birti Kaur|
+| Project Sponsor | Cover website costs | Mma Owah|
+| Users | Access the provided contents  | Users of Kaggle|
 
-## 7.0 Preliminary Budget
-
-
-| Item | Qtd | Cost/Item | Total Cost |
-| ----------- | ----------- | ----------- |  ----------- |
-| Hosting  | 1 | 4.99 CADs/Month| 59.88 CADs/year|
-| Domain | 1| 12.99 CADs/Year| 12.99 CADs/year|
-| **Overall Cost** |  | | 72.87 CADs/year|
